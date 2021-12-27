@@ -49,5 +49,5 @@ jobs:
 
 ## Example
 
-* Source repo: https://github.com/tegarimansyah/Jupyter
-* Destination repo: https://github.com/tegarimansyah/destination_repo
+* Source repo: https://github.com/hohoabhi/system_doc
+* Destination repo: https://github.com/hohoabhi/kb
